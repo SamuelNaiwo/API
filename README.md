@@ -11,6 +11,8 @@ API's let your product or service communicate with other products and services w
 
 ### Diagram showing Data Transfer Process in API
 
+![Screenshot 2023-04-06 at 15.15.44.png](..%2F..%2F..%2FDownloads%2FScreenshot%202023-04-06%20at%2015.15.44.png)
+
 ### What is a REST API?
 
 Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work.
@@ -33,13 +35,13 @@ The Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, 
 
 1. RESPONSE CODE: Represents the server status e.g 404.
 2. VERSION indicates the HTTP version e.g HTTP v1.1
-2. HEADER: Contains the metadata for the response and represented as key-value pairs.
-3. BODY: Message content giving more information if the request was successful or unsuccessful.
+3. HEADER: Contains the metadata for the response and represented as key-value pairs.
+4. BODY: Message content giving more information if the request was successful or unsuccessful.
 
 ### 5 HTTP Verbs
 
 GET: Used to request data.
-POST: Used to create a new resource.
+POST: Used to create a new resource (sending data to API).
 PUT: Used to create/replace a resource.
 PATCH: Used to update a resource.
 DELETE: Used to delete a resource.
