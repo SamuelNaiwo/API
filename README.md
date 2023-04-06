@@ -11,7 +11,7 @@ API's let your product or service communicate with other products and services w
 
 ### Diagram showing Data Transfer Process in API
 
-![Screenshot 2023-04-06 at 15.15.44.png](..%2F..%2F..%2FDownloads%2FScreenshot%202023-04-06%20at%2015.15.44.png)
+![Screenshot 2023-04-06 at 15.15.44.png](Screenshot%202023-04-06%20at%2015.15.44.png)
 
 ### What is a REST API?
 
